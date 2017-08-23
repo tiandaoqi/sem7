@@ -1,3 +1,3 @@
 hello,milk
-你好
+XXXXX
 123
